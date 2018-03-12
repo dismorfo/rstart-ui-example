@@ -1,0 +1,14 @@
+{
+    "id":"823b7ca4-21e0-4673-ba0c-141e1eee7815",
+    "coll_id":"7c632f34-904e-457a-a4e1-23e158bbd187",
+    "digi_id":"AD_MC_028_ref1001",
+    "do_type":"image_set",
+    "phase":"parking",
+    "step":"move_to_collection",
+    "status":"done",
+    "notes":null,
+    "label":null,
+    "created_at":"2018-03-01T02:17:46.966Z",
+    "updated_at":"2018-03-01T02:25:37.356Z",
+    "coll_url":"https://rsbe.dlib.nyu.edu/api/v0/colls/7c632f34-904e-457a-a4e1-23e158bbd187"
+ }

@@ -1,0 +1,189 @@
+[  
+    {  
+       "id":"bf441e77-981e-4d89-9fdf-2fa5c89a7df1",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc002",
+       "name":"Yasser Alwan Collection",
+       "coll_type":"origin",
+       "created_at":"2015-05-22T03:16:25.108Z",
+       "updated_at":"2015-05-22T03:16:25.108Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/bf441e77-981e-4d89-9fdf-2fa5c89a7df1",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"e12b4e13-2785-446c-8196-6e1acff10e2e",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc007",
+       "name":"Vernacular Photography from Turkey",
+       "coll_type":"origin",
+       "created_at":"2015-05-22T03:16:25.773Z",
+       "updated_at":"2015-05-22T03:16:25.773Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/e12b4e13-2785-446c-8196-6e1acff10e2e",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"ce5acb8b-34d6-4c6c-8c59-2b5973380921",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"barsarchive",
+       "name":"Video from Bar Media in Armenia",
+       "coll_type":"origin",
+       "created_at":"2014-09-25T19:57:12.543Z",
+       "updated_at":"2015-05-22T03:16:39.657Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/ce5acb8b-34d6-4c6c-8c59-2b5973380921",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"cb834c66-e265-4bb0-b846-775071212e95",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc012",
+       "name":"Ottoman Collection",
+       "coll_type":"origin",
+       "created_at":"2016-03-09T17:28:03.055Z",
+       "updated_at":"2016-03-09T17:28:03.055Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/cb834c66-e265-4bb0-b846-775071212e95",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"58822401-c2b3-4c2f-9945-89dd1897e01e",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc023",
+       "name":"NYUAD Oral History Project",
+       "coll_type":"origin",
+       "created_at":"2016-09-15T16:58:16.764Z",
+       "updated_at":"2016-09-15T16:58:16.764Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/58822401-c2b3-4c2f-9945-89dd1897e01e",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"56380ddf-8eb1-4d2e-ac98-6a49cbabb50d",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"akkasah_pa",
+       "name":"Akkasah Photographic Albums",
+       "coll_type":"origin",
+       "created_at":"2016-09-15T16:58:21.922Z",
+       "updated_at":"2016-09-15T16:58:21.922Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/56380ddf-8eb1-4d2e-ac98-6a49cbabb50d",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"96682ddc-4ace-4252-b5a3-2f78f03d188c",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc016",
+       "name":"Kumonidad - Filipinos in the UAE collection ",
+       "coll_type":"origin",
+       "created_at":"2016-11-04T23:54:29.943Z",
+       "updated_at":"2017-01-17T18:42:14.587Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/96682ddc-4ace-4252-b5a3-2f78f03d188c",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"0eb72c34-97a0-4c6b-b5eb-6f0e02e3c1ce",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc022",
+       "name":"Salwa Mikdadi Collection",
+       "coll_type":"origin",
+       "created_at":"2017-01-17T18:42:15.379Z",
+       "updated_at":"2017-01-17T18:42:15.379Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/0eb72c34-97a0-4c6b-b5eb-6f0e02e3c1ce",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"31ddef1a-2112-46e8-9da3-72ecd2823839",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_sc",
+       "name":"NYUAD Special Collections",
+       "coll_type":"origin",
+       "created_at":"2017-04-10T22:23:41.036Z",
+       "updated_at":"2017-04-10T22:23:41.036Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/31ddef1a-2112-46e8-9da3-72ecd2823839",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"7c632f34-904e-457a-a4e1-23e158bbd187",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc028",
+       "name":"College de Sainte Famille",
+       "coll_type":"origin",
+       "created_at":"2017-06-29T19:53:55.401Z",
+       "updated_at":"2017-06-29T19:53:55.401Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/7c632f34-904e-457a-a4e1-23e158bbd187",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"0c3d90e6-f6d7-4daa-8d53-162a8e2b79eb",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc029",
+       "name":"Mamdouh Besharat Collection",
+       "coll_type":"origin",
+       "created_at":"2017-06-29T19:53:55.733Z",
+       "updated_at":"2017-06-29T19:53:55.733Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/0c3d90e6-f6d7-4daa-8d53-162a8e2b79eb",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"4f519069-c882-4eb7-a425-62e58c1dd486",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc026",
+       "name":"A gulf of images by Michele Nastasi",
+       "coll_type":"origin",
+       "created_at":"2017-11-21T01:38:17.971Z",
+       "updated_at":"2017-11-21T01:38:17.971Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/4f519069-c882-4eb7-a425-62e58c1dd486",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"a6244c9e-cb8f-4312-88de-bcbe9714a97e",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc021",
+       "name":"The edge collection by Philip Chung",
+       "coll_type":"origin",
+       "created_at":"2017-11-27T19:11:26.826Z",
+       "updated_at":"2017-11-27T19:11:26.826Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/a6244c9e-cb8f-4312-88de-bcbe9714a97e",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"3bcc8106-c193-4444-a3e0-99653b3cf3b4",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc030",
+       "name":"The Jordan collection by Hisham Khatib",
+       "coll_type":"origin",
+       "created_at":"2017-11-27T19:11:29.629Z",
+       "updated_at":"2017-11-27T19:11:29.629Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/3bcc8106-c193-4444-a3e0-99653b3cf3b4",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"34b8eb36-125d-4f07-b3f7-6343a571e8ba",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc031",
+       "name":"Al Qassim Family Collection",
+       "coll_type":"origin",
+       "created_at":"2017-12-04T20:15:56.124Z",
+       "updated_at":"2017-12-04T20:15:56.124Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/34b8eb36-125d-4f07-b3f7-6343a571e8ba",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"6a731035-f2ce-4b83-a65f-9f6c7bdf727c",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc035",
+       "name":"The Eisenberg Collection of East African Sound Recordings",
+       "coll_type":"origin",
+       "created_at":"2017-12-12T15:45:19.632Z",
+       "updated_at":"2017-12-12T15:45:19.632Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/6a731035-f2ce-4b83-a65f-9f6c7bdf727c",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    },
+    {  
+       "id":"486b72e2-cf27-4844-b944-18d0f9a106f8",
+       "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+       "code":"ad_mc004",
+       "name":"Capstone Archive",
+       "coll_type":"origin",
+       "created_at":"2018-02-13T18:01:25.923Z",
+       "updated_at":"2018-02-13T18:01:25.923Z",
+       "url":"https://rsbe.dlib.nyu.edu/api/v0/colls/486b72e2-cf27-4844-b944-18d0f9a106f8",
+       "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54"
+    }
+ ]

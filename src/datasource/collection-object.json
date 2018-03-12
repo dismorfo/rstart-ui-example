@@ -1,0 +1,13 @@
+{  
+    "id":"7c632f34-904e-457a-a4e1-23e158bbd187",
+    "partner_id":"a2ab971f-ce12-4799-96a3-d550207e2f54",
+    "code":"ad_mc028",
+    "name":"College de Sainte Famille",
+    "coll_type":"origin",
+    "created_at":"2017-06-29T19:53:55.401Z",
+    "updated_at":"2017-06-29T19:53:55.401Z",
+    "quota":500,
+    "ready_for_content":false,
+    "partner_url":"https://rsbe.dlib.nyu.edu/api/v0/partners/a2ab971f-ce12-4799-96a3-d550207e2f54",
+    "ses_url":"https://rsbe.dlib.nyu.edu/api/v0/colls/7c632f34-904e-457a-a4e1-23e158bbd187/ses"
+ }

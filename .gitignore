@@ -8,6 +8,8 @@ npm-debug.log*
 /reports
 /node_modules
 /test/__expected__
+/public/*.js
+/public/*.css
 .DS_Store
 Thumbs.db
 .idea
